@@ -170,6 +170,5 @@ Open Customer_Data_Dashboard.pbix using Power BI Desktop.
 
 Data Analyst | SQL | Python | Power BI | Business Intelligence
 
-📧 Add Email Here
-🔗 Add LinkedIn Here
-🌐 Add Portfolio Here
+📧 himanshukumar981824@gmail.com
+🔗 Himanshu Kumar
